@@ -25,6 +25,12 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     private var viewModels = [NewsTableViewCellViewModel]()
     
     override func viewDidLoad() {
+        
+        
+        
+        // this is for testing the git pull. ignore
+        
+        
         super.viewDidLoad()
         title = "World Top News"
         view.addSubview(tableView)
