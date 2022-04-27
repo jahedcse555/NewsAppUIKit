@@ -32,7 +32,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         
         
         super.viewDidLoad()
-        title = "World Top News"
+        title = "World Top News for Jahed"
         view.addSubview(tableView)
         tableView.delegate = self
         tableView.dataSource = self
