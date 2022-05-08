@@ -25,13 +25,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     private var viewModels = [NewsTableViewCellViewModel]()
     
     override func viewDidLoad() {
-        
-        
-        
-        // this is for testing the git pull. ignore
-        
-        //2nd test
-        
+        // back to new phase
         
         super.viewDidLoad()
         title = "World Top News for Jahed"
