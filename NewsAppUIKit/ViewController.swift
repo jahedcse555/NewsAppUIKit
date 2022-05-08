@@ -30,6 +30,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         
         // this is for testing the git pull. ignore
         
+        //2nd test
+        
         
         super.viewDidLoad()
         title = "World Top News for Jahed"
